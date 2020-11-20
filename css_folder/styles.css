@@ -1,0 +1,109 @@
+body {
+  text-align: center;
+  margin: 0;
+  background-color: rgb(179, 255, 232);
+}
+.top-container {
+  background-color: lightcyan;
+  padding-top: 400px;
+  position: relative;
+  line-height: 1;
+}
+.heading {
+  letter-spacing: 10px;
+  position: absolute;
+  left: 40px;
+  top: 60px;
+}
+
+p {
+  font-family: "Julius Sans One", sans-serif;
+  font-size: 20px;
+  font-family: "Lemonada", cursive;
+  color: rgb(177, 52, 94);
+}
+.photo {
+  position: absolute;
+  top: 100px;
+  right: 200px;
+}
+.van {
+  position: absolute;
+  left: 200px;
+  bottom: -60px;
+}
+.hello {
+  color: orange;
+  font-family: "Monoton", cursive;
+  font-size: 70px;
+}
+h1 {
+  font-family: "Bungee Inline", cursive;
+  font-size: 40px;
+  font-style: italic;
+  color: #4a4e69;
+}
+.middle-container {
+  width: 50%;
+  margin: 40px auto 40px auto;
+  text-align: right;
+  line-height: 2;
+  margin-left: 200px;
+}
+.engine-img {
+  float: right;
+  margin-left: 20px;
+  margin-top: 20px;
+}
+hr {
+  border: dashed #80b918 2px;
+  width: 30%;
+}
+.hobbies {
+  width: 50%;
+  margin: 40px auto 40px auto;
+  text-align: left;
+  line-height: 2;
+  margin-right: 200px;
+}
+.cafe {
+  float: left;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+.and {
+  display: inline-block;
+  width: 700px;
+  margin: 0 200px;
+}
+.button {
+  text-decoration: none;
+  border-radius: 15px;
+  color: rgb(255, 135, 135);
+  font-family: fantasy;
+  font-size: 20px;
+  background-color: darkblue;
+  padding: 10px;
+  border: solid;
+  border-color: darkblue;
+}
+.button:hover {
+  background-color: lightskyblue;
+  color: darkslategray;
+  border-color: lightskyblue;
+}
+.contact-container {
+  padding-bottom: 40px;
+}
+.web-contact {
+  text-decoration: none;
+}
+a {
+  padding: 20px 10px;
+}
+.copyrith {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-style: normal;
+  color: black;
+  font-size: 15px;
+}
